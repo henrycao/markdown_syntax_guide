@@ -98,5 +98,13 @@ Stephen Curry is a `great` shooter
     `` ` ``
 `` ` ``
     
-    
+###图片  
+图片和链接是一样的有两种方式，inline和reference，两者的区别在于图片是在前面多了一个！  
 
+    ![pic example][]
+    [pic example]: http://petapixel.com/assets/uploads/2012/11/stackedclouds-1.jpg "Search from google"
+
+![pic example][]
+[pic example]: http://petapixel.com/assets/uploads/2012/11/stackedclouds-1.jpg "Search from google"
+
+就目前而言，markdown还无法改变图片的大小，就是说原图是什么样的就是什么样的，如果想要定义图片，那么就只能用<img>标签了
