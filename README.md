@@ -7,6 +7,6 @@ Recommended reading
 
 1. [overview](./overview.md)
 2. [block elements](./block_elements.md)
-3. [span elements](./span_elements)
+3. [span elements](./span_elements.md)
 4. [others](./others.md)
 
